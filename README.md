@@ -23,7 +23,7 @@
 
 Хочу оставить небольшую фотографию, контакты оставлять не буду
 
-(https://www.mvideo.ru/blog/wp-content/uploads/2023/08/bezymyannyj-1.pn)
+[Просто красивая картинка](/Images/pictures.png)
 
 
 
